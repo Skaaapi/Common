@@ -42,6 +42,19 @@ Children’s Privacy
 
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
+Child Safety and Protection Standards
+
+At Love Test, the safety and well-being of our users, especially minors, are our top priorities. While Love Test is designed for entertainment purposes and does not collect any personal data, we are committed to maintaining a safe environment for all users.
+
+Our Commitments to Child Safety:
+- No Data Collection: Love Test does not collect, store, or share any personal information from users, ensuring that sensitive data remains protected at all times.
+- No Interaction Between Users: Love Test is a standalone app without user-to-user communication, reducing the risk of inappropriate contact or exploitation.
+- Strict Content Moderation: All app content is carefully designed to be appropriate for all ages, with no explicit or harmful material.
+- Compliance with Child Safety Standards: We adhere to all applicable child safety regulations and continually review our app’s features to maintain a secure environment.
+
+Reporting and Support:
+If you have any concerns about child safety or encounter any suspicious activity, please contact us at softcazeapps@gmail.com.
+
 Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
